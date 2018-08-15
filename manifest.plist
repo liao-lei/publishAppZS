@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://jutron.cn/qd/MAP.Web/install_ipa_ZS/iostestappzsk.ipa</string>
+					<string>https://jutron.cn/qd/MAP.Web/install_ipa_ZS/IosQdBusZS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.qd.qdbus</string>
 				<key>bundle-version</key>
-				<string>0.0.34</string>
+				<string>0.0.35</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>myApp</string>
+				<string>IosQdBusZS</string>
 			</dict>
 		</dict>
 	</array>
